@@ -17,7 +17,7 @@ while true
 do
   clear
   echo "================================================================================"
-  echo "//                      File backup made by @squadramunter                    //"
+  echo "//                    Simple backup made by @squadramunter                    //"
   echo "================================================================================"
   echo "Enter 1 to create an encrypted backup of your files: "
   echo "Enter 2 to restore your encrypted backup: "
